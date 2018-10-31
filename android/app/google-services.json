@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "701003980965",
+    "firebase_url": "https://coba-fcm-f943e.firebaseio.com",
+    "project_id": "coba-fcm-f943e",
+    "storage_bucket": "coba-fcm-f943e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701003980965:android:1c291bfcc90f03f9",
+        "android_client_info": {
+          "package_name": "com.rnfcmdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701003980965-3mseg709g0h8up1ciisrk8lr94j7k1jj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACjeOxDazPEZErHmE28vpszoa-RIzjm6A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
